@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RadiantSMP-xpSK.aternos.me",
-    "port": 17005,
+    "ip": "RadiantSMP-mOOW.aternos.me",
+    "port": 30373,
     "version": "1.21.1",
     "try-creative": false
   },
